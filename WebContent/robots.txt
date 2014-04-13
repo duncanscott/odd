@@ -1,0 +1,4 @@
+﻿User-agent: *
+Disallow: /2010-2011-ODD-RT_Record.txt
+Disallow: /2010-2011-ODD-RT_Record.pdf
+Disallow: /2010-2011-ODD-大寶佛藏灌頂目錄.pdf
