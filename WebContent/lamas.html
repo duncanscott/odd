@@ -18,7 +18,7 @@
 		}
 	</script>
 </head>
-<body onload="selectTab('DrimedTab'); preloadAlternateImages()">
+<body onload="selectTab('LesTab'); preloadAlternateImages()">
 <center>
 <table id="container">
 <tr>
@@ -61,19 +61,23 @@
 			<td id="lamascell">
 				<table border="0" cellpadding="0" cellspacing="0">
 				<tr id="pictureRow">
-					<td><a href="./odd_lamas/lamadrimed.html" target="bioframe"><img src="./odd_lamas/LamaDrimed.jpg" onclick="selectTab('DrimedTab')" onmouseover="this.className = 'selected'" onmouseout="this.className = ''"></a></td>
-					<td><a href="./odd_lamas/lamajigme.html" target="bioframe"><img src="./odd_lamas/LamaJigme.jpg" onclick="selectTab('JigmeTab')"  onmouseover="this.className = 'selected'" onmouseout="this.className = ''"></a></td>
+					<!--
+						<td><a href="./odd_lamas/lamadrimed.html" target="bioframe"><img src="./odd_lamas/LamaDrimed.jpg" onclick="selectTab('DrimedTab')" onmouseover="this.className = 'selected'" onmouseout="this.className = ''"></a></td>
+					-->
 					<td><a href="./odd_lamas/lamales.html" target="bioframe"><img src="./odd_lamas/LamaLes.jpg" onclick="selectTab('LesTab')"  onmouseover="this.className = 'selected'" onmouseout="this.className = ''"></a></td>
+					<td><a href="./odd_lamas/lamajigme.html" target="bioframe"><img src="./odd_lamas/LamaJigme.jpg" onclick="selectTab('JigmeTab')"  onmouseover="this.className = 'selected'" onmouseout="this.className = ''"></a></td>
 				</tr>
 				<tr id="tabRow">
+					<!--
 					<td id="DrimedTab" class="left">
 						<a href="./odd_lamas/lamadrimed.html" target="bioframe" onclick="selectTab('DrimedTab')" >Lama Drimed</a>
 					</td>
-					<td id="JigmeTab">
-						<a href="./odd_lamas/lamajigme.html" target="bioframe" onclick="selectTab('JigmeTab')" >Lama Jigme</a>
-					</td>
+					-->
 					<td id="LesTab">
 						<a href="./odd_lamas/lamales.html" target="bioframe" onclick="selectTab('LesTab')" >Lama Les</a>
+					</td>
+					<td id="JigmeTab">
+						<a href="./odd_lamas/lamajigme.html" target="bioframe" onclick="selectTab('JigmeTab')" >Lama Jigme</a>
 					</td>
 				</tr>
 				</table>
@@ -81,7 +85,7 @@
 		</tr>
 		<tr>
 			<td id="biocell">
-			<iframe id="bioframe" name="bioframe" src="./odd_lamas/lamadrimed.html" allowtransparency="true" frameBorder="0"></iframe>
+			<iframe id="bioframe" name="bioframe" src="./odd_lamas/lamales.html" allowtransparency="true" frameBorder="0"></iframe>
 			</td>
 		</tr>
 		</table>
