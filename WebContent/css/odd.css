@@ -344,7 +344,7 @@ table#donation_options td.donation_form {
 }
 table#donation_options td.spacer {
 	width: 3em;
-}
+}div#fundraising {	position:relative;}div#ach_form {	position:absolute;	right:5px;	bottom:-5px;	z-index:1;}
 input#ach_button {
 	margin-bottom: 0.3em;
 }
