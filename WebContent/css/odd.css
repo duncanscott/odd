@@ -9,7 +9,7 @@ A:visited {color: #00F}
 A:hover {color: #3C3;}
 a.bold {font-weight: bold;}
 a.bold:hover {color: #3C3;}
-*.bold {font-weight: bold;}td.announcementCell p.announcement {	padding: 1em 2em 0 2em;	font-weight: bold;}td.announcementCell h3 {	color: rgb(121,0,0);}table#contentlayout td.announcementCell {	padding-top: 1.2em;}div#fundraising tr.donation td {	padding: 0 1em 0em 1em;	text-align:left;	vertical-align:top; }div#fundraising tr.donation td p {	font: 0.9em/1.2 arial, sans-serif;	font-weight: bold;}table.dev td {	border: 1px solid black;}
+*.bold {font-weight: bold;}td.announcementCell p.announcement {	padding: 0 2em 1em 2em;	font-weight: bold;}td.announcementCell h3 {	color: rgb(121,0,0);}table#contentlayout td.announcementCell {	padding-top: 1.2em;}div#fundraising tr.donation td {	padding: 0 1em 0em 1em;	text-align:left;	vertical-align:top; }div#fundraising tr.donation td p {	font: 0.9em/1.2 arial, sans-serif;	font-weight: bold;}table.dev td {	border: 1px solid black;}
 div#container {
 	position: relative;
 	top: 10px;
