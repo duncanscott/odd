@@ -9,7 +9,7 @@ A:visited {color: #00F}
 A:hover {color: #3C3;}
 a.bold {font-weight: bold;}
 a.bold:hover {color: #3C3;}
-*.bold {font-weight: bold;}td.announcementCell p.announcement {	padding: 1em 2em 0 2em;	font-weight: bold;}td.announcementCell h3 {	color: rgb(121,0,0);}table#contentlayout td.announcementCell {	padding-top: 1.2em;}div#fundraising td.schpeel p {	font-size: 1.1em;}div#fundraising tr.donation td {	padding: 0 1em 0em 1em;	text-align:left;	vertical-align:top; }div#fundraising tr.donation td p {	font: 0.9em/1.2 arial, sans-serif;	font-weight: bold;}table.dev td {	border: 1px solid black;}
+*.bold {font-weight: bold;}td.announcementCell p.announcement {	padding: 1em 2em 0 2em;	font-weight: bold;}td.announcementCell h3 {	color: rgb(121,0,0);}table#contentlayout td.announcementCell {	padding-top: 1.2em;}div#fundraising tr.donation td {	padding: 0 1em 0em 1em;	text-align:left;	vertical-align:top; }div#fundraising tr.donation td p {	font: 0.9em/1.2 arial, sans-serif;	font-weight: bold;}table.dev td {	border: 1px solid black;}
 div#container {
 	position: relative;
 	top: 10px;
@@ -325,10 +325,10 @@ span.contact {
 div#fundraising p {
 	font: 1.0em/1.2 "Times New Roman", "Times", serif;
 	margin-top: 15px;
-}
+}div#fundraising p.title {		font-weight: bold;}
 td.contact,p.contact {
 	font: 0.8em/1.2 arial, sans-serif; font-weight: bold;
-}
+}table#throma-donation {	margin: 1em 1em;}img#troma-small {	float: right;	margin: 0 0 0 1em;}table#throma-donation td {	padding: 0 2em 0 3em;}
 table#donation_options {
 	margin: 2em 1em;
 }
@@ -436,4 +436,4 @@ table#menuTable td.menuCell a span {
 p.schpeel {
 	font-size: 0.8em;
 	margin-top: 1em;
-}
+}p.title {		font-size: 1.2em;	font-weight: bold;}
