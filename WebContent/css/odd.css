@@ -325,7 +325,7 @@ span.contact {
 div#fundraising p {
 	font: 1.0em/1.2 "Times New Roman", "Times", serif;
 	margin-top: 15px;
-}div#fundraising p.title {		font-weight: bold;}
+}div#fundraising p.title {		font-weight: bold;	text-align: center;}
 td.contact,p.contact {
 	font: 0.8em/1.2 arial, sans-serif; font-weight: bold;
 }table#throma-donation {	margin: 1em 1em;}img#troma-small {	float: right;	margin: 0 0 0 1em;}table#throma-donation td {	padding: 0 2em 0 3em;}
