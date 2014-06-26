@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="38e775ba-5aed-4cff-814d-b753809f76f8" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WebContent/css/odd.css" afterPath="$PROJECT_DIR$/WebContent/css/odd.css" />
-    </list>
+    <list default="true" id="38e775ba-5aed-4cff-814d-b753809f76f8" name="Default" comment="" />
     <ignored path="orgyendorjeden.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -498,12 +496,12 @@
       <workItem from="1402850403989" duration="361000" />
       <workItem from="1403161156356" duration="207000" />
       <workItem from="1403284332782" duration="75000" />
-      <workItem from="1403758338631" duration="3190000" />
+      <workItem from="1403758338631" duration="3280000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3833000" />
+    <option name="totallyTimeSpent" value="3923000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1440" height="825" extended-state="0" />
