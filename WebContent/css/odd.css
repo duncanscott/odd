@@ -31,6 +31,19 @@ td.announcementCell h3 {
 	color: rgb(121,0,0);
 }
 
+td.announcementCell h3 A:link {
+    color: rgb(121,0,0);
+}
+
+td.announcementCell h3 A:visited {
+    color: rgb(121,0,0);
+}
+
+td.announcementCell h3 A:hover {
+    color: #3C3;
+}
+
+
 table#contentlayout td.announcementCell {
     text-align:left;
     padding: 2em 1em 0em 4em;
