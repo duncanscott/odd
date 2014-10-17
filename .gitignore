@@ -3,4 +3,6 @@
 /.idea/*
 /WebContent/css/odd.css
 /WebContent/index.html
-/.idea/
+/.idea
+/.idea/workspace.xml
+/orgyendorjeden.iml
