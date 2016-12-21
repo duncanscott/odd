@@ -3,13 +3,6 @@
 body {
 	background-image:url('../images/mainbg.gif');
 	font-family: arial, sans-serif;
-	text-align: center;
-}
-body.clouds {
-	background-image: url('../images/clouds.jpg');
-}
-td.knot {
-	background:url('../images/mainbg.gif');
 }
 
 A:link {color: #00F}
@@ -20,6 +13,15 @@ a.bold:hover {color: #3C3;}
 
 *.bold {font-weight: bold;}
 
+table#container {
+	width: 770px;
+	margin-left: auto ;
+	margin-right: auto ;
+}
+
+table#container td.contentpane {
+	border: 1px solid black;
+}
 
 td.announcementCell A:link {
     color:#96200b
@@ -129,6 +131,10 @@ table#container {
 	margin-top: 10px;
 	width: 767px;
 	margin-bottom: 10em;
+}
+
+table#container td {
+    text-align:left;
 }
 
 table#container td#topbanner {
