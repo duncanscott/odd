@@ -1,8 +1,6 @@
 /.settings
 /.DS_Store
 /.idea/*
-/WebContent/css/odd.css
-/WebContent/index.html
 /.idea
-/.idea/workspace.xml
 /orgyendorjeden.iml
+*.iml
